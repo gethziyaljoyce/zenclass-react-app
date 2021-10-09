@@ -1,0 +1,131 @@
+h1{
+    color:white;
+    text-align:center;
+    padding-top: 20px;
+    font-size: 6rem;
+}
+h3,h4,h2,h5,p{
+    color:white;
+}
+
+.container_main{
+    max-width: 25rem;
+    border:  1px solid #042f66;
+    text-align: center;
+    margin-left: 60rem;
+    margin-top: 10rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    border-radius: 20px;
+    background-color:#042f66;
+    box-shadow: 0px 5px 5px 5px white;
+}
+.links{
+    padding-right: 20px;
+    padding-left: 20px;
+    color:white;
+}
+body{
+    /* background-image: url("https://wallpapertag.com/wallpaper/full/f/c/d/124168-free-download-engineering-wallpaper-1920x1080-for-ios.jpg");
+background-size: cover; */
+background-color: #042f66;
+}
+.prof_pic{
+    height:17rem;
+    width: 17rem;
+    border-radius: 60%;
+}
+.container-prof{
+border: 1px solid #042f66;
+margin-top: 40px;
+margin-left: 60rem;
+max-width: 400px;
+padding-top:20px;
+padding-left: 20px;
+background-color:#042f66;
+border-radius: 10px;
+box-shadow: 0px 5px 5px 5px white;
+}
+.container-prof:hover{
+   
+    background-color:#15214F;
+     
+}
+.container_main:hover{
+    max-width: 420px;
+    height: 120%;
+}
+
+th{
+    color:rgb(160, 160, 235);
+    text-align: center;
+    font-size: 20px;
+}
+td{
+    color:white;
+}
+table{
+    background-color:#042f66;
+    
+}
+.container_form{
+    border:1px solid black;
+margin-left:30rem;
+margin-right: 30rem;
+margin-top: 10rem;
+margin-bottom: 5rem;
+background-color: snow;
+padding-left: 5rem;
+padding-right: 5rem;
+padding-top: 2rem;
+padding-bottom: 2rem;
+text-align: center;
+border-radius: 10px;
+}
+#add{
+    color:#042f66;
+    padding-bottom: 1rem;
+    
+}
+.container_individual_1,.container_individual_2,.container_individual_3{
+    border:2px solid #042f66;
+    margin-bottom:15px;
+    padding-left: 15px;
+    background-color:#185cb4;
+}
+#posts{
+    text-align: center;
+    padding-bottom: 2rem;
+}
+.comment{
+    border: 1px solid #042f66;
+    margin-bottom: 2rem;
+}
+.container_individual_1{
+    border:1px solid black;
+    margin-left:30rem;
+    margin-right: 30rem;
+    margin-top: 10rem;
+    margin-bottom: 5rem;
+   
+    padding-left: 5rem;
+    padding-right: 5rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    text-align: center;
+    border-radius: 10px;
+}
+.container_individual_2{
+    width:100%;
+    text-align:center;
+    border-radius: 5px;
+}
+#comment{
+    text-align:center;
+}
+.container_individual_3{
+    background-color:#042f66 ;
+    border: 2px solid #185cb4;
+}
+
+
